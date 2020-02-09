@@ -48,7 +48,7 @@ animal = {
   :Class => {
   },
   },
- }   #:Order => {
+},   #:Order => {
       #:Family => {
         #:Genus => {
           #:Species => {
