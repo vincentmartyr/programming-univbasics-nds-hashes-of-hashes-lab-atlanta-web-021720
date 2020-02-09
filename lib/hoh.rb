@@ -50,18 +50,17 @@ label: "Kingdom",
     }
   }
 }
-  :Class => {
-   :Order => {
-      :Family => {
-        :Genus => {
-          :Species => {
+  #:Class => {
+   #:Order => {
+      #:Family => {
+        #:Genus => {
+          #:Species => {
 
-          },
-      },
-    },
-  },
-},
-},
+          #},
+      #},
+    #},
+  #},
+#},
 }
 
 kingdom
