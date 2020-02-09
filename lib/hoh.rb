@@ -43,13 +43,13 @@ def naming_system
   # HoH all the way to Species!
 animal = {
 
-Kingdom:{
- Phylum:{
-  Class:{
+"Kingdom" => {
+ "Phylum" =>{
+  "Class" =>{
     "Order"=> {
-      Family:{
+      "Family" => {
         "Genus" => {
-          "Species"{
+          "Species" => {
             nil
           },
       },
