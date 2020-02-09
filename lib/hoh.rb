@@ -56,9 +56,9 @@ sub_category: {
             label: "Genus",
             sub_category: {
               label: "Species",
-              sub_category: {
+              sub_category: 
                 label: nil
-              }
+              
             }
           }
         }
