@@ -66,18 +66,6 @@ sub_category: {
     }
   }
 }
-  #:Class => {
-   #:Order => {
-      #:Family => {
-        #:Genus => {
-          #:Species => {
-
-          #},
-      #},
-    #},
-  #},
-#},
-#}
 
 animal
 
