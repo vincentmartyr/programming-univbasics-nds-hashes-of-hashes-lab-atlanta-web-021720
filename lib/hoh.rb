@@ -44,13 +44,13 @@ def naming_system
 animal = {
 
 "Kingdom" => {
- "Phylum" =>{
-  "Class" =>{
+ "Phylum" => {
+  "Class" => {
     "Order"=> {
       "Family" => {
         "Genus" => {
           "Species" => {
-            nil
+            
           },
       },
     },
