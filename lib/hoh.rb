@@ -45,15 +45,15 @@ animal = {
 
 :Kingdom =>{
  :Phylum => {
-  :Class => { "Order"
+  :Class => {
    :Order => {
-      #:Family => {
-        #:Genus => {
-          #:Species => {
-            #nil => {}
-          #},
-      #},
-    #},
+      :Family => {
+        :Genus => {
+          :Species => {
+            nil => {}
+          },
+      },
+    },
   },
 },
 },
