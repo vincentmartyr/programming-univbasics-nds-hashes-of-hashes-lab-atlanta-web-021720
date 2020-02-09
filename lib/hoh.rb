@@ -64,6 +64,6 @@ sub_category: {
 #},
 #}
 
-kingdom
+animal
 
 end
