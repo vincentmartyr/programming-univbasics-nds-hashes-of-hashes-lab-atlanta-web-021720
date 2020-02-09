@@ -50,7 +50,7 @@ animal = {
       "Family" => {
         "Genus" => {
           "Species" => {
-            
+            "nil" => {}
           },
       },
     },
