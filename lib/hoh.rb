@@ -45,9 +45,9 @@ animal = {
 
 :Kingdom =>{
  :Phylum => {
-  :Class => {
+  :Class => { "Order"
   },
-  },
+ },
 },   #:Order => {
       #:Family => {
         #:Genus => {
